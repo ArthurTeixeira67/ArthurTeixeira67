@@ -1,8 +1,9 @@
 # Opa 👋😀
 
-<img width="498" height="249" alt="Image" src="https://github.com/user-attachments/assets/5229fe03-f632-44fb-9b30-6f112c3a88a0" />
 
 ### 🏛️ Gestão da informação 
+
+<img src="./ayanami_gif.gif" title="ayanami"/>
 
 
 
